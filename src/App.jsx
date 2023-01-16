@@ -1,4 +1,3 @@
-import './';
 import './app.scss';
 
 const App = () => {
